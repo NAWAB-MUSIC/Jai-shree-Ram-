@@ -158,7 +158,7 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
+For a full list of commands, use `/help` in [telegram](https://t.me/Sanatani_ll_music_Bot).
 
 ---
 
@@ -167,10 +167,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBo
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://t.me/+t7d-99_5j1wyY2Y9">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://t.me/+t7d-99_5j1wyY2Y9">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
